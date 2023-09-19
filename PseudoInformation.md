@@ -1,1 +1,1 @@
-This file is created because I don't know what else to create! Does it even matter where am I editing it from?
+This file is created because I don't know what else to create! Does it even matter where am I editing it from? For all you know, this line could have been from Codespaces.
